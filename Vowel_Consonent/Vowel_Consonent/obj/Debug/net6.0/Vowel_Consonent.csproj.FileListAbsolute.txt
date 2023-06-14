@@ -1,0 +1,15 @@
+C:\Users\Sagar\source\repos\Vowel_Consonent\Vowel_Consonent\bin\Debug\net6.0\Vowel_Consonent.exe
+C:\Users\Sagar\source\repos\Vowel_Consonent\Vowel_Consonent\bin\Debug\net6.0\Vowel_Consonent.deps.json
+C:\Users\Sagar\source\repos\Vowel_Consonent\Vowel_Consonent\bin\Debug\net6.0\Vowel_Consonent.runtimeconfig.json
+C:\Users\Sagar\source\repos\Vowel_Consonent\Vowel_Consonent\bin\Debug\net6.0\Vowel_Consonent.dll
+C:\Users\Sagar\source\repos\Vowel_Consonent\Vowel_Consonent\bin\Debug\net6.0\Vowel_Consonent.pdb
+C:\Users\Sagar\source\repos\Vowel_Consonent\Vowel_Consonent\obj\Debug\net6.0\Vowel_Consonent.csproj.AssemblyReference.cache
+C:\Users\Sagar\source\repos\Vowel_Consonent\Vowel_Consonent\obj\Debug\net6.0\Vowel_Consonent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sagar\source\repos\Vowel_Consonent\Vowel_Consonent\obj\Debug\net6.0\Vowel_Consonent.AssemblyInfoInputs.cache
+C:\Users\Sagar\source\repos\Vowel_Consonent\Vowel_Consonent\obj\Debug\net6.0\Vowel_Consonent.AssemblyInfo.cs
+C:\Users\Sagar\source\repos\Vowel_Consonent\Vowel_Consonent\obj\Debug\net6.0\Vowel_Consonent.csproj.CoreCompileInputs.cache
+C:\Users\Sagar\source\repos\Vowel_Consonent\Vowel_Consonent\obj\Debug\net6.0\Vowel_Consonent.dll
+C:\Users\Sagar\source\repos\Vowel_Consonent\Vowel_Consonent\obj\Debug\net6.0\refint\Vowel_Consonent.dll
+C:\Users\Sagar\source\repos\Vowel_Consonent\Vowel_Consonent\obj\Debug\net6.0\Vowel_Consonent.pdb
+C:\Users\Sagar\source\repos\Vowel_Consonent\Vowel_Consonent\obj\Debug\net6.0\Vowel_Consonent.genruntimeconfig.cache
+C:\Users\Sagar\source\repos\Vowel_Consonent\Vowel_Consonent\obj\Debug\net6.0\ref\Vowel_Consonent.dll

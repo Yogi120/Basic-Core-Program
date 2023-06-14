@@ -1,0 +1,15 @@
+C:\Users\Sagar\source\repos\PowerOf2\PowerOf2\bin\Debug\net6.0\PowerOf2.exe
+C:\Users\Sagar\source\repos\PowerOf2\PowerOf2\bin\Debug\net6.0\PowerOf2.deps.json
+C:\Users\Sagar\source\repos\PowerOf2\PowerOf2\bin\Debug\net6.0\PowerOf2.runtimeconfig.json
+C:\Users\Sagar\source\repos\PowerOf2\PowerOf2\bin\Debug\net6.0\PowerOf2.dll
+C:\Users\Sagar\source\repos\PowerOf2\PowerOf2\bin\Debug\net6.0\PowerOf2.pdb
+C:\Users\Sagar\source\repos\PowerOf2\PowerOf2\obj\Debug\net6.0\PowerOf2.csproj.AssemblyReference.cache
+C:\Users\Sagar\source\repos\PowerOf2\PowerOf2\obj\Debug\net6.0\PowerOf2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sagar\source\repos\PowerOf2\PowerOf2\obj\Debug\net6.0\PowerOf2.AssemblyInfoInputs.cache
+C:\Users\Sagar\source\repos\PowerOf2\PowerOf2\obj\Debug\net6.0\PowerOf2.AssemblyInfo.cs
+C:\Users\Sagar\source\repos\PowerOf2\PowerOf2\obj\Debug\net6.0\PowerOf2.csproj.CoreCompileInputs.cache
+C:\Users\Sagar\source\repos\PowerOf2\PowerOf2\obj\Debug\net6.0\PowerOf2.dll
+C:\Users\Sagar\source\repos\PowerOf2\PowerOf2\obj\Debug\net6.0\refint\PowerOf2.dll
+C:\Users\Sagar\source\repos\PowerOf2\PowerOf2\obj\Debug\net6.0\PowerOf2.pdb
+C:\Users\Sagar\source\repos\PowerOf2\PowerOf2\obj\Debug\net6.0\PowerOf2.genruntimeconfig.cache
+C:\Users\Sagar\source\repos\PowerOf2\PowerOf2\obj\Debug\net6.0\ref\PowerOf2.dll

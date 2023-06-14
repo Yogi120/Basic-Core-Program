@@ -1,0 +1,15 @@
+C:\Users\Sagar\source\repos\LeapYear\LeapYear\obj\Debug\net6.0\LeapYear.csproj.AssemblyReference.cache
+C:\Users\Sagar\source\repos\LeapYear\LeapYear\obj\Debug\net6.0\LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sagar\source\repos\LeapYear\LeapYear\obj\Debug\net6.0\LeapYear.AssemblyInfoInputs.cache
+C:\Users\Sagar\source\repos\LeapYear\LeapYear\obj\Debug\net6.0\LeapYear.AssemblyInfo.cs
+C:\Users\Sagar\source\repos\LeapYear\LeapYear\obj\Debug\net6.0\LeapYear.csproj.CoreCompileInputs.cache
+C:\Users\Sagar\source\repos\LeapYear\LeapYear\bin\Debug\net6.0\LeapYear.exe
+C:\Users\Sagar\source\repos\LeapYear\LeapYear\bin\Debug\net6.0\LeapYear.deps.json
+C:\Users\Sagar\source\repos\LeapYear\LeapYear\bin\Debug\net6.0\LeapYear.runtimeconfig.json
+C:\Users\Sagar\source\repos\LeapYear\LeapYear\bin\Debug\net6.0\LeapYear.dll
+C:\Users\Sagar\source\repos\LeapYear\LeapYear\bin\Debug\net6.0\LeapYear.pdb
+C:\Users\Sagar\source\repos\LeapYear\LeapYear\obj\Debug\net6.0\LeapYear.dll
+C:\Users\Sagar\source\repos\LeapYear\LeapYear\obj\Debug\net6.0\refint\LeapYear.dll
+C:\Users\Sagar\source\repos\LeapYear\LeapYear\obj\Debug\net6.0\LeapYear.pdb
+C:\Users\Sagar\source\repos\LeapYear\LeapYear\obj\Debug\net6.0\LeapYear.genruntimeconfig.cache
+C:\Users\Sagar\source\repos\LeapYear\LeapYear\obj\Debug\net6.0\ref\LeapYear.dll

@@ -1,0 +1,15 @@
+C:\Users\Sagar\source\repos\Quotient_Remainder\Quotient_Remainder\bin\Debug\net6.0\Quotient_Remainder.exe
+C:\Users\Sagar\source\repos\Quotient_Remainder\Quotient_Remainder\bin\Debug\net6.0\Quotient_Remainder.deps.json
+C:\Users\Sagar\source\repos\Quotient_Remainder\Quotient_Remainder\bin\Debug\net6.0\Quotient_Remainder.runtimeconfig.json
+C:\Users\Sagar\source\repos\Quotient_Remainder\Quotient_Remainder\bin\Debug\net6.0\Quotient_Remainder.dll
+C:\Users\Sagar\source\repos\Quotient_Remainder\Quotient_Remainder\bin\Debug\net6.0\Quotient_Remainder.pdb
+C:\Users\Sagar\source\repos\Quotient_Remainder\Quotient_Remainder\obj\Debug\net6.0\Quotient_Remainder.csproj.AssemblyReference.cache
+C:\Users\Sagar\source\repos\Quotient_Remainder\Quotient_Remainder\obj\Debug\net6.0\Quotient_Remainder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sagar\source\repos\Quotient_Remainder\Quotient_Remainder\obj\Debug\net6.0\Quotient_Remainder.AssemblyInfoInputs.cache
+C:\Users\Sagar\source\repos\Quotient_Remainder\Quotient_Remainder\obj\Debug\net6.0\Quotient_Remainder.AssemblyInfo.cs
+C:\Users\Sagar\source\repos\Quotient_Remainder\Quotient_Remainder\obj\Debug\net6.0\Quotient_Remainder.csproj.CoreCompileInputs.cache
+C:\Users\Sagar\source\repos\Quotient_Remainder\Quotient_Remainder\obj\Debug\net6.0\Quotient_Remainder.dll
+C:\Users\Sagar\source\repos\Quotient_Remainder\Quotient_Remainder\obj\Debug\net6.0\refint\Quotient_Remainder.dll
+C:\Users\Sagar\source\repos\Quotient_Remainder\Quotient_Remainder\obj\Debug\net6.0\Quotient_Remainder.pdb
+C:\Users\Sagar\source\repos\Quotient_Remainder\Quotient_Remainder\obj\Debug\net6.0\Quotient_Remainder.genruntimeconfig.cache
+C:\Users\Sagar\source\repos\Quotient_Remainder\Quotient_Remainder\obj\Debug\net6.0\ref\Quotient_Remainder.dll
