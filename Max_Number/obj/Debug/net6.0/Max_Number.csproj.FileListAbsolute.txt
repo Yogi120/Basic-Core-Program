@@ -1,0 +1,15 @@
+C:\Users\Sagar\source\repos\Max_Number\Max_Number\bin\Debug\net6.0\Max_Number.exe
+C:\Users\Sagar\source\repos\Max_Number\Max_Number\bin\Debug\net6.0\Max_Number.deps.json
+C:\Users\Sagar\source\repos\Max_Number\Max_Number\bin\Debug\net6.0\Max_Number.runtimeconfig.json
+C:\Users\Sagar\source\repos\Max_Number\Max_Number\bin\Debug\net6.0\Max_Number.dll
+C:\Users\Sagar\source\repos\Max_Number\Max_Number\bin\Debug\net6.0\Max_Number.pdb
+C:\Users\Sagar\source\repos\Max_Number\Max_Number\obj\Debug\net6.0\Max_Number.csproj.AssemblyReference.cache
+C:\Users\Sagar\source\repos\Max_Number\Max_Number\obj\Debug\net6.0\Max_Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sagar\source\repos\Max_Number\Max_Number\obj\Debug\net6.0\Max_Number.AssemblyInfoInputs.cache
+C:\Users\Sagar\source\repos\Max_Number\Max_Number\obj\Debug\net6.0\Max_Number.AssemblyInfo.cs
+C:\Users\Sagar\source\repos\Max_Number\Max_Number\obj\Debug\net6.0\Max_Number.csproj.CoreCompileInputs.cache
+C:\Users\Sagar\source\repos\Max_Number\Max_Number\obj\Debug\net6.0\Max_Number.dll
+C:\Users\Sagar\source\repos\Max_Number\Max_Number\obj\Debug\net6.0\refint\Max_Number.dll
+C:\Users\Sagar\source\repos\Max_Number\Max_Number\obj\Debug\net6.0\Max_Number.pdb
+C:\Users\Sagar\source\repos\Max_Number\Max_Number\obj\Debug\net6.0\Max_Number.genruntimeconfig.cache
+C:\Users\Sagar\source\repos\Max_Number\Max_Number\obj\Debug\net6.0\ref\Max_Number.dll
