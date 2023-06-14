@@ -1,0 +1,15 @@
+C:\Users\Sagar\source\repos\Even_Odd\Even_Odd\bin\Debug\net6.0\Even_Odd.exe
+C:\Users\Sagar\source\repos\Even_Odd\Even_Odd\bin\Debug\net6.0\Even_Odd.deps.json
+C:\Users\Sagar\source\repos\Even_Odd\Even_Odd\bin\Debug\net6.0\Even_Odd.runtimeconfig.json
+C:\Users\Sagar\source\repos\Even_Odd\Even_Odd\bin\Debug\net6.0\Even_Odd.dll
+C:\Users\Sagar\source\repos\Even_Odd\Even_Odd\bin\Debug\net6.0\Even_Odd.pdb
+C:\Users\Sagar\source\repos\Even_Odd\Even_Odd\obj\Debug\net6.0\Even_Odd.csproj.AssemblyReference.cache
+C:\Users\Sagar\source\repos\Even_Odd\Even_Odd\obj\Debug\net6.0\Even_Odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sagar\source\repos\Even_Odd\Even_Odd\obj\Debug\net6.0\Even_Odd.AssemblyInfoInputs.cache
+C:\Users\Sagar\source\repos\Even_Odd\Even_Odd\obj\Debug\net6.0\Even_Odd.AssemblyInfo.cs
+C:\Users\Sagar\source\repos\Even_Odd\Even_Odd\obj\Debug\net6.0\Even_Odd.csproj.CoreCompileInputs.cache
+C:\Users\Sagar\source\repos\Even_Odd\Even_Odd\obj\Debug\net6.0\Even_Odd.dll
+C:\Users\Sagar\source\repos\Even_Odd\Even_Odd\obj\Debug\net6.0\refint\Even_Odd.dll
+C:\Users\Sagar\source\repos\Even_Odd\Even_Odd\obj\Debug\net6.0\Even_Odd.pdb
+C:\Users\Sagar\source\repos\Even_Odd\Even_Odd\obj\Debug\net6.0\Even_Odd.genruntimeconfig.cache
+C:\Users\Sagar\source\repos\Even_Odd\Even_Odd\obj\Debug\net6.0\ref\Even_Odd.dll
